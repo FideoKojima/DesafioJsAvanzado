@@ -2,7 +2,7 @@
 
 # 🦁 Proyecto Animales Salvajes 🐺
 
-![Animales Salvajes Banner](https://via.placeholder.com/800x200?text=Animales+Salvajes)
+![Enlace Directo](https://desafio-js-avanzado.vercel.app/)
 
 ## 📋 Descripción
 
