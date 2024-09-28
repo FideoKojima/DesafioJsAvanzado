@@ -2,7 +2,7 @@
 
 # 🦁 Proyecto Animales Salvajes 🐺
 
-![Enlace Directo](https://desafio-js-avanzado.vercel.app/)
+[Enlace Directo](https://desafio-js-avanzado.vercel.app/)
 
 ## 📋 Descripción
 
